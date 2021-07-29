@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ice pick "Red Rebel" -->
+
+  <GN_RedRebel.label>Ледоруб</GN_RedRebel.label>
+  <GN_RedRebel.description>Идеально сбалансированный ледоруб с наконечником из цельного куска закаленного металла. Подходит для изучения древних гробниц.</GN_RedRebel.description>
+  <GN_RedRebel.tools.0.label>рукоятка</GN_RedRebel.tools.0.label>
+  <GN_RedRebel.tools.1.label>наконечник</GN_RedRebel.tools.1.label>
+
+
+</LanguageData>

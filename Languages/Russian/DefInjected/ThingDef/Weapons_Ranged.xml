@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Service Rifle) Better, same dmg -->
+
+  <GN_Bullet_AKOneOThree.label>AK-103 Bullet</GN_Bullet_AKOneOThree.label>
+
+  <GN_AKOneOThree.label>AK-103</GN_AKOneOThree.label>
+  <GN_AKOneOThree.description>Современная версия знаменитого АК-47. Этот нестандартный АК-103 оснащен некоторыми насадками Magpul и голографическим прицелом.</GN_AKOneOThree.description>
+  <GN_AKOneOThree.tools.0.label>приклад</GN_AKOneOThree.tools.0.label>
+  <GN_AKOneOThree.tools.1.label>дуло</GN_AKOneOThree.tools.1.label>
+
+
+  <!-- (Battle Rifle) Better, same dmg -->
+
+  <GN_Bullet_SAFiftyEight.label>SA-58 Bullet</GN_Bullet_SAFiftyEight.label>
+
+  <GN_SAFiftyEight.label>SA-58</GN_SAFiftyEight.label>
+  <GN_SAFiftyEight.description>Улучшенная версия FAL. Этот нестандартный SA-58 поставляется с барабанным магазином и 1-6-кратным прицелом, а также с некоторыми насадками для улучшения контроля отдачи и эргономики.</GN_SAFiftyEight.description>
+  <GN_SAFiftyEight.tools.0.label>приклад</GN_SAFiftyEight.tools.0.label>
+  <GN_SAFiftyEight.tools.1.label>дуло</GN_SAFiftyEight.tools.1.label>
+
+
+  <!-- (Sniper Rifle) More dmg, more precise -->
+
+  <GN_Bullet_RSevenHundred.label>R700 Bullet</GN_Bullet_RSevenHundred.label>
+
+  <GN_RSevenHundred.label>R700</GN_RSevenHundred.label>
+  <GN_RSevenHundred.description>Сильно модифицированная версия Remington 700 под патрон .300 W Mag с дальнобойным прицелом и большим глушителем</GN_RSevenHundred.description>
+  <GN_RSevenHundred.tools.0.label>приклад</GN_RSevenHundred.tools.0.label>
+  <GN_RSevenHundred.tools.1.label>дуло</GN_RSevenHundred.tools.1.label>
+
+
+  <!-- (Assault Rifle) Same dmg, less range, more precise -->
+
+  <GN_Bullet_MFourAOne.label>CQC M4A1 Bullet</GN_Bullet_MFourAOne.label>
+
+  <GN_MFourAOne.label>CQC M4A1</GN_MFourAOne.label>
+  <GN_MFourAOne.description>Сильно модифицированная версия классического M4A1 с улучшенным цевьем, магазином на 60 патронов, голографическим прицелом и глушителем, чтобы вы могли стрелять ночью и никогда не разбудить своих товарищей-колонистов.</GN_MFourAOne.description>
+  <GN_MFourAOne.tools.0.label>приклад</GN_MFourAOne.tools.0.label>
+  <GN_MFourAOne.tools.1.label>дуло</GN_MFourAOne.tools.1.label>
+
+
+  <!-- (Carbine) Same dmg, better -->
+
+  <GN_Bullet_AKOneOFive.label>AK-105 Bullet</GN_Bullet_AKOneOFive.label>
+
+  <GN_AKOneOFive.label>AK-105</GN_AKOneOFive.label>
+  <GN_AKOneOFive.description>Младшая сестра АК-74М, этот АК-105 оснащен некоторыми приспособлениями ЗенитКо, а также прицелом ОКП.</GN_AKOneOFive.description>
+  <GN_AKOneOFive.tools.0.label>приклад</GN_AKOneOFive.tools.0.label>
+  <GN_AKOneOFive.tools.1.label>дуло</GN_AKOneOFive.tools.1.label>
+
+
+  <!-- (HeavySMG) More dmg, better -->
+
+  <GN_Bullet_MPSevenAOne.label>MP7A1 Bullet</GN_Bullet_MPSevenAOne.label>
+
+  <GN_MPSevenAOne.label>MP7A1</GN_MPSevenAOne.label>
+  <GN_MPSevenAOne.description>Это оружие было полностью разработано для более эффективного пробития кевларовой брони. Этот MP7A1 оснащен прицелом с красной точкой, и глушителем.</GN_MPSevenAOne.description>
+  <GN_MPSevenAOne.tools.0.label>рукоятка</GN_MPSevenAOne.tools.0.label>
+  <GN_MPSevenAOne.tools.1.label>дуло</GN_MPSevenAOne.tools.1.label>
+
+
+  <!-- Same dmg, better. -->
+
+  <GN_Bullet_MOneA.label>M1A bullet</GN_Bullet_MOneA.label>
+
+  <GN_MOneA.label>M1A</GN_MOneA.label>
+  <GN_MOneA.description>Потомок классического M1 Garand. Этот M1A поставляется с магазином на 30 патронов, оптическим прицелом HAMR и красивой ложей Archangel.</GN_MOneA.description>
+  <GN_MOneA.tools.0.label>приклад</GN_MOneA.tools.0.label>
+  <GN_MOneA.tools.1.label>дуло</GN_MOneA.tools.1.label>
+
+
+  <!-- Same dmg, better -->
+
+  <GN_Bullet_SaigaTwelveK.label>Saiga 12k blast</GN_Bullet_SaigaTwelveK.label>
+
+  <GN_SaigaTwelveK.label>Особая Сайга12К</GN_SaigaTwelveK.label>
+  <GN_SaigaTwelveK.description>Однажды Михаил Калашников проснулся и подумал, а что, если я сделаю АК, который стреляет дробью. Эта Сайга12К имеет прицел с красной точкой, барабанный магазин и удобную рукоятку.</GN_SaigaTwelveK.description>
+  <GN_SaigaTwelveK.tools.0.label>приклад</GN_SaigaTwelveK.tools.0.label>
+  <GN_SaigaTwelveK.tools.1.label>дуло</GN_SaigaTwelveK.tools.1.label>
+
+  <GN_Bullet_BullpupPKP.label>Bullpup PKP bullet</GN_Bullet_BullpupPKP.label>
+
+  <GN_BullpupPKP.label>Печенег</GN_BullpupPKP.label>
+  <GN_BullpupPKP.description>Буллпап версия «Печенега» или ПКП, меньший размер этой конструкции позволяет лучше работать в городских боях без потери огневой мощи.</GN_BullpupPKP.description>
+  <GN_BullpupPKP.tools.0.label>приклад</GN_BullpupPKP.tools.0.label>
+  <GN_BullpupPKP.tools.1.label>дуло</GN_BullpupPKP.tools.1.label>
+
+
+  <!-- Less damage, beter and faster -->
+
+  <GN_Bullet_GlockSeventeen.label>Glock 17 bullet</GN_Bullet_GlockSeventeen.label>
+
+  <GN_GlockSeventeen.label>Глок 17</GN_GlockSeventeen.label>
+  <GN_GlockSeventeen.description>В настоящее время более 40 стран используют пистолеты Глок в своих полицейских частях. Этот Глок 17 модифицирован насадками Zev Tech, а также рефлекторным прицелом Trijicon RMR.</GN_GlockSeventeen.description>
+  <GN_GlockSeventeen.tools.0.label>приклад</GN_GlockSeventeen.tools.0.label>
+  <GN_GlockSeventeen.tools.1.label>дуло</GN_GlockSeventeen.tools.1.label>
+
+
+</LanguageData>
